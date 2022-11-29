@@ -1,1 +1,1 @@
-const newFile = 'string'
+const newFile = 'stringz'
