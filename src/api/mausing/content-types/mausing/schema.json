@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "mausings",
+  "info": {
+    "singularName": "mausing",
+    "pluralName": "mausings",
+    "displayName": "Mausing"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "New": {
+      "type": "string"
+    }
+  }
+}
