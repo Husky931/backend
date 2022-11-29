@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "deploys",
+  "info": {
+    "singularName": "deploy",
+    "pluralName": "deploys",
+    "displayName": "Deploy "
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
