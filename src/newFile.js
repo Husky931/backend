@@ -1,1 +1,1 @@
-const newFile = 10
+const newFile = 'string'
