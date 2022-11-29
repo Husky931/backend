@@ -37,7 +37,7 @@ jobs:
         cache: 'npm'
     - run: yarn install
     - run: yarn build
-    - env: 
+      env: 
         HOST: ${{ secrets.HOST }}
         PORT: ${{ secrets.PORT }}
         APP_KEYS: ${{ secrets.APP_KEYS }}
