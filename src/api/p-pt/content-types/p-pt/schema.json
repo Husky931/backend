@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "p_pts",
+  "info": {
+    "singularName": "p-pt",
+    "pluralName": "p-pts",
+    "displayName": "PPt"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "New": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}
